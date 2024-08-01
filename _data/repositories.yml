@@ -1,0 +1,8 @@
+github_users:
+  - mlyann
+
+repo_description_lines_max: 4
+
+github_repos:
+  - mlyann/GPT_Slack_Integration
+  - mlyann/Data-Visualization-and-Graph-Drawing
