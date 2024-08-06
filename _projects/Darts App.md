@@ -4,7 +4,7 @@ title: Darts App
 description: Experience competitive darts online with the Darts Game Website. Featuring real-time scoring, multiple game modes, and a dynamic leaderboard, it transforms traditional darts into an engaging digital experience.
 img: assets/img/darts-image.png
 importance: 1
-category: work
+category: fun
 ---
 
 ## Description

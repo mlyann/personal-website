@@ -3,7 +3,7 @@ layout: page
 title: ChatGPT Slack Integration
 description: A Project Connecting ChatGPT and Slack for organizations/companies internal use
 img: assets/img/SlackDemo.gif
-importance: 3
+importance: 1
 category: work
 giscus_comments: false
 ---

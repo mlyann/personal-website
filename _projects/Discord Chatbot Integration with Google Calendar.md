@@ -4,7 +4,7 @@ title: Discord Chatbot Integration with Google Calendar
 description: This project is inspired by JARVIS from Iron Man.
 img: assets/img/jarvis.jpg
 importance: 2
-category: work
+category: fun
 ---
 
 This project orchestrates seamless communication between Discord and Google Calendar, enabling users to manage events directly from their Discord server. Leveraging the capabilities of ChatGPT and Google Calendar APIs, this integration streamlines event creation, retrieval, and interaction, enhancing user experience and productivity.
