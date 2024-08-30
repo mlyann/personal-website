@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Became a research assistant under the guidance of Dr. Kobus Barnard in the Interdisciplinary Visual Intelligence Lab ([IVILAB](https://ivilab.org/)).
+title: Became a research assistant under the guidance of Dr. Kobus Barnard in the Interdisciplinary Visual Intelligence Lab.
 date: 2023-09-27 13:00:00-0400
 inline: false
 ---
 
-I am a research assistant under the guidance of Dr. Kobus Barnard in the Interdisciplinary Visual Intelligence Lab ([IVILAB](https://ivilab.org/)).
+I am a research assistant under the guidance of Dr. Kobus Barnard in the Interdisciplinary Visual Intelligence Lab.
 
 ***
 
