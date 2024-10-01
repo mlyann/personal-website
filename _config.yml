@@ -8,9 +8,9 @@ middle_name:
 last_name: Yang
 email: mlyang721@arizona.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  INTP
+  Building intelligent systems to shape a smarter world.
 footer_text: >   
-  Last Update: July 21st, 2024. (My 19th birthday!)
+  Last Update: 2024 Summer. 
 keywords: Ming's Portfolio Website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

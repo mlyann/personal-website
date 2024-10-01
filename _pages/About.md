@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: AI Engineer & ML UGRA & Full-Stack Developer | Actively Seeking Summer 2025 Internships
+subtitle: UGRA in AI-Agents & AI Engineer & Full-Stack Developer | Actively Seeking Summer 2025 Internships
 
 profile:
   align: right
@@ -26,6 +26,6 @@ My work at [AI Core](https://aicore.arizona.edu/) focuses on developing custom G
 I'm also the [Vice President and co-founder](https://uaaiclub.com/team/) of the [Artificial Intelligence Club](https://uaaiclub.com/) at the University of Arizona. I lead all our directors, organize workshops, and partner with top companies and startups. Our mission is to give all UofA students access to AI, enabling them to create GPT models, agentic workflows and collaborate on industry projects.
 
 **ML Research Focus:**
-In the academic sphere, my research centers on computationally understanding and predicting human behavior. I am involved in [ToMCAT projects](https://ml4ai.github.io/tomcat/) at the [ML4AI LAB](https://ml4ai.github.io/) and [IVI LAB](https://ivilab.org/), supervised by [Prof. Kobus Barnard](https://www2.cs.arizona.edu/~kobus/) and [Prof. Adarsh Pyarelal](https://adarsh.cc/). My focus is on developing Dynamic Bayesian Networks to predict human beliefs in search and rescue missions, model human behavior, and build decision-making AI agents. The goal of my work is to create AI that can understand and operate in complex, real-world environments.
+In the academic sphere, my research centers on computationally understanding and predicting human behavior. I am involved in developing a theory of mind-based cognitive architecture for teams ([ToMCAT](https://ml4ai.github.io/tomcat/)) at the [ML4AI LAB](https://ml4ai.github.io/) and [IVI LAB](https://ivilab.org/), supervised by [Prof. Kobus Barnard](https://www2.cs.arizona.edu/~kobus/) and [Prof. Adarsh Pyarelal](https://adarsh.cc/). My focus is on developing Dynamic Bayesian Networks to predict human beliefs in search and rescue missions, model human behavior, and build decision-making AI agents. The goal of my work is to create AI that can understand and operate in complex, real-world environments.
 
 Outside of my technical pursuits, I am a violin enthusiast and avid hiker, which I often share on my blog.
