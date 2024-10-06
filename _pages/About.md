@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a [Computer Science](https://www.cs.arizona.edu/) student at [the University of Arizona](https://www.arizona.edu/), holding a perfect 4.0 GPA and specializing in software development, probabilistic modeling, and machine learning. I am on track to complete my bachelor’s degree in two years, with an expected graduation date of December 2025.
+I am a [Computer Science](https://www.cs.arizona.edu/) student at [the University of Arizona](https://www.arizona.edu/), holding a perfect 4.0 GPA and specializing in software development, probabilistic modeling, and machine learning. I am on track to complete my bachelor’s degree in a total of two years, with an expected graduation date of December 2025.
 
 **Industry Experience:**
 As a full-stack web developer, I have extensive experience with AWS, Nginx, Docker, React, Django and Wordpress. During my internship at [CoreTechs Consulting Inc.](https://www.coretechs.com/), I managed end-to-end website development, created intelligent bots, and deployed applications using advanced web services
